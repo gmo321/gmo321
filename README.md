@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 (she/her)
 
-to be continued
 
 <!--
 - 🔭 I’m currently working on ...
