@@ -1,4 +1,4 @@
-### Hi there, I'm gloria 👋
+### hi there, i'm gloria 👋
 
 <!--
 **gmo321/gmo321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
